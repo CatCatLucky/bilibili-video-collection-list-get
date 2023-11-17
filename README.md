@@ -13,3 +13,6 @@ from json.decoder import JSONDecodeError
 import requests
 ```
 运行起来后根据提示输入内容，按回车即可，不希望看见无法运行起来的程序，比如一些我无法运行起来的Python文件
+
+
+声明：这是根据其他大佬的代码涂涂改改改成这样的，并不是原创
